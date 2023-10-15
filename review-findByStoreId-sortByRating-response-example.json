@@ -1,0 +1,71 @@
+{
+    "success": true,
+    "response": [
+        {
+            "reviewId": 4,
+            "userId": 1,
+            "rating": 4.8,
+            "content": "추천합니다. 탕수육은 조금 눅눅합니다.",
+            "createdAt": "2023-10-15T16:13:39.446603",
+            "imageUrls": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "relativeTime": "31분 전",
+            "updated": true
+        },
+        {
+            "reviewId": 8,
+            "userId": 1,
+            "rating": 4.5,
+            "content": "추천합니다. 탕수육은 조금 눅눅합니다.",
+            "createdAt": "2023-10-15T16:14:21.224738",
+            "imageUrls": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "relativeTime": "30분 전",
+            "updated": true
+        },
+        {
+            "reviewId": 3,
+            "userId": 1,
+            "rating": 3.5,
+            "content": "추천합니다. 탕수육은 조금 눅눅합니다.",
+            "createdAt": "2023-10-15T16:13:24.238074",
+            "imageUrls": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "relativeTime": "31분 전",
+            "updated": true
+        },
+        {
+            "reviewId": 2,
+            "userId": 1,
+            "rating": 3.5,
+            "content": "추천합니다. 탕수육은 조금 눅눅합니다.",
+            "createdAt": "2023-10-15T15:53:46.459488",
+            "imageUrls": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "relativeTime": "51분 전",
+            "updated": true
+        },
+        {
+            "reviewId": 6,
+            "userId": 1,
+            "rating": 3.3,
+            "content": "추천합니다. 탕수육은 조금 눅눅합니다.",
+            "createdAt": "2023-10-15T16:13:58.551625",
+            "imageUrls": [
+                "image1.jpg",
+                "image2.jpg"
+            ],
+            "relativeTime": "31분 전",
+            "updated": true
+        }
+    ],
+    "error": null
+}

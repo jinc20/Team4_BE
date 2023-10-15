@@ -1,0 +1,51 @@
+{
+    "success": true,
+    "response": {
+        "storeId": 1,
+        "reviewId": 1,
+        "reviewer": {
+            "profileImage": "기본 프로필 이미지",
+            "userName": "d2e5ab57-202f-4ed4-b036-3f0de0ecb934",
+            "email": "wh5971@daum.net"
+        },
+        "averageCostPerPerson": 6666,
+        "peopleCount": 3,
+        "createdAt": "30분 전",
+        "rating": 1.9,
+        "recommendCount": 0,
+        "content": "추천합니다. 탕수육은 조금 눅눅합니다.",
+        "reviewImages": [
+            {
+                "image": "image1.jpg",
+                "tags": [
+                    {
+                        "name": "짜장면",
+                        "location_x": 108,
+                        "location_y": 95,
+                        "rating": 4
+                    },
+                    {
+                        "name": "볶음밥",
+                        "location_x": 200,
+                        "location_y": 60,
+                        "rating": 4
+                    }
+                ]
+            },
+            {
+                "image": "image2.jpg",
+                "tags": [
+                    {
+                        "name": "탕수육",
+                        "location_x": 150,
+                        "location_y": 150,
+                        "rating": -2
+                    }
+                ]
+            }
+        ],
+        "totalPrice": 20000,
+        "updated": true
+    },
+    "error": null
+}
